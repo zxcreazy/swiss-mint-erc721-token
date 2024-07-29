@@ -1,0 +1,1 @@
+# swiss-mint-erc721-token
